@@ -53,7 +53,8 @@
 5) UV 편집(UV Editing/Mapping)
    블렌더의 UV 편집 기능은 3D 모델의 텍스쳐 매핑 및 UV 매핑을 위한 강력한 도구를 제공한다. 모델의 표면에 텍스쳐를 적용하기 위해 필요한 UV 맵을 조작,편집하는 과정인데, 이를 통해 모델의 각 부분에 올바르게 텍스쳐를 배치하고, 디테일을 추가하거나 수정할 수 있다.
  ① UV Editor 
-   UV 편집기는 텍스쳐 매핑을 위한 인터페이스를 제공한다. 여기에서 UV 맵을 조작하고, 텍스쳐를 레이아웃하고, 편집할 수 있다. 
+   UV 편집기는 텍스쳐 매핑을 위한 인터페이스를 제공한다. 여기에서 UV 맵을 조작하고, 텍스쳐를 레이아웃하고, 편집할 수 있다.
+[<UV 편집기의 상단바 모습>](<https://private-user-images.githubusercontent.com/166011915/321246915-b67788ec-3e36-4333-a9dd-87d7c4df1116.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTI3NTY0MjUsIm5iZiI6MTcxMjc1NjEyNSwicGF0aCI6Ii8xNjYwMTE5MTUvMzIxMjQ2OTE1LWI2Nzc4OGVjLTNlMzYtNDMzMy1hOWRkLTg3ZDdjNGRmMTExNi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNDEwJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDQxMFQxMzM1MjVaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1iMjU2MWZiMDYxODY1ODU2YTdlNDVmOGY2YmJlNGQwNWNkYmQ5MDcyZTQwN2U3MWNmYWNlNDJiZWE3OTE5NGU3JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.TmZwo2TOQh7OBrvHW5XpddXfpXlzCB3spbh9JXqKPMw>)
  ② UV Unwrapping
    모델의 표면을 펼쳐 UV 맵을 생성하는 과정이다. 블렌더는 다양한 언랩핑 알고리즘을 제공하여 사용자가 모델의 형태와 텍스쳐 배치에 따라 적합한 방법을 선택할 수 있다.
  ③ UV Mapping Tools
